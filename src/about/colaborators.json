@@ -2,9 +2,9 @@
   "colaborators": [
     {
       "id": "1",
-      "pictureUrl": "https://img.freepik.com/free-photo/portrait-young-girl-smiling_23-2149260597.jpg?t=st=1726847555~exp=1726851155~hmac=ae8100a3110075ace039cfbab5402e125e0287792199f6b604e2f3693648547d&w=740",
-      "name": "Laura Rodrigues",
-      "bio": "Psicóloga na Assotram, Laura oferece apoio emocional para a comunidade trans no Amazonas, promovendo espaços seguros e acolhedores. É uma defensora da aceitação e do empoderamento pessoal."
+      "pictureUrl": "https://drive.google.com/file/d/1fzKuYgxlQQ3I7rj4-qwtzyEIiUpjRWvs/view?usp=drive_link",
+      "name": "Rebeca Carvalho",
+      "bio": "Presidenta em exercício."
     },
     {
       "id": "2",
@@ -29,6 +29,12 @@
       "pictureUrl": "https://img.freepik.com/free-photo/stylish-young-bearded-male-blogger-with-backpack-posing-outdoors-while-recording-video-taking-selfie_273609-1861.jpg?t=st=1726847923~exp=1726851523~hmac=2169b4def12078ccc5fa1670731dc97629403681a36e0e74793c92d8367225c6&w=740",
       "name": "Felipe Nascimento",
       "bio": "Felipe é advogado especializado em direitos LGBTQIA+. Na Assotram, ele presta consultoria jurídica para pessoas trans, ajudando-as a garantirem seus direitos. Felipe é comprometido com a luta pela justiça e igualdade."
+    },
+    {
+      "id": "6",
+      "pictureUrl": "...",
+      "name": "...",
+      "bio": "..."
     }
   ]
 }
